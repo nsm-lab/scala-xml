@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 scala-xml
 [![Travis](https://img.shields.io/travis/scala/scala-xml.svg)](https://travis-ci.org/scala/scala-xml)
 [![latest release for 2.11](https://img.shields.io/maven-central/v/org.scala-lang.modules/scala-xml_2.11.svg?label=scala+2.11)](http://mvnrepository.com/artifact/org.scala-lang.modules/scala-xml_2.11)
@@ -49,3 +50,7 @@ The XML spec has some features that are best turned off, to avoid unsavory thing
 - [xtract](https://github.com/lucidsoftware/xtract) - A library for deserializing XML
 
 See also the "XML" section of [Awesome Scala](https://github.com/lauris/awesome-scala).
+=======
+# scala-xml
+The standard Scala XML library
+>>>>>>> b4975032cd6aaa7e98f1817dc0d26e423bddec9f
